@@ -19,7 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "../noe_modules/foundation-sites/dist/css/foundation-flex.min.css",
+        "../node_modules/foundation-sites/dist/css/foundation-flex.min.css",
         "styles.scss"
       ],
       "scripts": [],
